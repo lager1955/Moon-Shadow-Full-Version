@@ -236,4 +236,4 @@ This repository serves as the official landing page for Moon Shadow. The softwar
 **Get the most recent version of Moon Shadow today!**
 
 ---
-**Last updated:** 2026-11-06 16:28:34 UTC
+**Last updated:** 2026-11-06 21:51:59 UTC
